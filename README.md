@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nad 👋
 
-<!--
-**anux9/anux9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in Artificial Intelligence and Data Science.
 
-Here are some ideas to get you started:
+## Projects
+- Car Price Prediction (Linear Regression)
+- Temperature Expert System (Fuzzy Logic)
+- Hunger Expert System (Rule-Based System)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Machine Learning
+- Expert Systems
+- Data Preprocessing
+
+## Tools
+- Pandas
+- NumPy
+- Scikit-learn
+- scikit-fuzzy
